@@ -1,5 +1,5 @@
 # PUBG-Data-Analysis
-This Code is to be performed on local machine. Your Execution crashes upon utilizing all the available RAM.
+This Code is to be performed on local machine. Your Execution might crashe upon utilizing all the available RAM in Google Collab.
 
 Training Sets and Test Data is available on my Google Drive Link provided Below : 
 https://drive.google.com/drive/u/0/folders/18TLg6nEDtRl5-bSm_CPmq_av01upFyI-
